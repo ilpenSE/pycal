@@ -23,4 +23,4 @@
 - nkök(n, x): Calculates nth root of x
 - You can use this in exponentiation: `x**y` (x to the power of y) These operations can be used in functions: `log(100)**2` (=4)
 # Irrational Calculator
-`irrcal.py` file is a calculator that allows you to calculate a number's square root or how many digits of pi, e, phi based on a specific sensitivity. (You can change it) It supports Turkish, English, German and French therefore you can go to the file and take a look how to use it.
+`irrcal.py` file is a calculator that allows you to calculate a number's square root or how many digits of pi, e, phi based on a specific sensitivity. (You can change it) It supports Turkish, English, German and French; thus, you can go to the file and take a look how to use it.
